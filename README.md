@@ -1,6 +1,6 @@
 # Crosslingual-learning-in-multilingual-text-detoxification
 This is the code for fine-tuning and evaluating models for multilingual text detoxification
-
+The corresponding paper can be found here: https://github.com/Tjaardo/Crosslingual-learning-in-multilingual-text-detoxification/blob/main/Crosslingual_learning_in_multilingual_text_detoxification.pdf
 
 Our model Training and Evaluation Pipeline consists of three Notebooks per model
 We have three different model approaches, so there are three Pipelines.
