@@ -1,5 +1,5 @@
 # Crosslingual-learning-in-multilingual-text-detoxification
-This is the code for training and evaluating models for multilingual text detoxification
+This is the code for fine-tuning and evaluating models for multilingual text detoxification
 
 
 Our model Training and Evaluation Pipeline consists of three Notebooks per model
